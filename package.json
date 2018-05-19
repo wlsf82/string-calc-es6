@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/wlsf82/string-calc-es6#readme",
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "unit.js": "^2.0.0"
   }
 }
