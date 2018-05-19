@@ -11,8 +11,6 @@
     "url": "git+https://github.com/wlsf82/string-calc-es6.git"
   },
   "keywords": [
-    "unit",
-    "test",
     "mocha"
   ],
   "author": "Walmyr Filho <wlsf82@gmail.com> (http://walmyr-filho.com)",
